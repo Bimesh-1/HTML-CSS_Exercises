@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+header{
+    display: flex;
+    color: white;
+    background: blue;
+    align-items: left;
+    padding: 1rem;
+}
+
+.site-title pm {
+    flex: 3;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    flex: 1;
+}
+
